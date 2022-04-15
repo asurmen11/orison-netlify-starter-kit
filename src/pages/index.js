@@ -5,7 +5,7 @@ export default context => html`
   <section>
     <h3>ASURMEN</h3>
     <ul>
-      <li><a href="/blog.html">I made a change</a></li>
+      <li><a href="/blog.html">I made another change</a></li>
       <li><a href="/blog/blog-a.html">/blog/blog-a.html</a></li>
       <li><a href="/blog/blog-b.html">/blog/blog-b.html</a></li>
       <li><a href="/blog/blog-c.html">/blog/blog-c.html</a></li>
