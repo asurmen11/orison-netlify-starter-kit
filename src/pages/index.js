@@ -3,7 +3,7 @@ import { html } from 'orison';
 export default context => html`
   <section>${context.mdFile('./src/partials/getting-started.md')}</section>
   <section>
-    <h3>TEST</h3>
+    <h3>ASURMEN</h3>
     <ul>
       <li><a href="/blog.html">/blog.html</a></li>
       <li><a href="/blog/blog-a.html">/blog/blog-a.html</a></li>
